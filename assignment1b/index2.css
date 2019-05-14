@@ -1,0 +1,15 @@
+#heading {
+    color: aliceblue;
+    background-color: yellowgreen;
+    font-size: x-large;
+}
+.button {
+    color: aliceblue;
+    background-color: yellowgreen;
+}
+table {
+    background: lightgrey;
+}
+*{
+    font: 1em sans-serif;
+}
